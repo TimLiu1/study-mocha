@@ -1,0 +1,23 @@
+{
+  "name": "study-mocha",
+  "version": "1.0.0",
+  "description": "a study for mocha",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "request": "^2.83.0",
+    "should": "^13.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "mochawesome": "^2.3.1",
+    "request": "^2.83.0",
+    "supertest": "^3.0.0",
+    "tap": "^10.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tim",
+  "license": "ISC"
+}
